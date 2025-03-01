@@ -23,7 +23,9 @@ I’m a final-year Statistics student passionate about **machine learning, NLP, 
 ## 📫 Connect with Me  
 
 📧 Email: ![ilhamabdilerz@gmail.com](mailto:ilhamabdilarz@gmail.com)
+
 💼 LinkedIn: ![Abdillah Ilham](https://www.linkedin.com/in/abdillah-ilham-83288821a/) 
+
 🌐 Portfolio: ![My Portfolio](https://ailham4321.github.io/) 
 
 ---
